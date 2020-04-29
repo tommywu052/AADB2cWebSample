@@ -30,7 +30,7 @@ This sample demonstrates how to sign in or sign up for an account at "Wingtip To
 From your shell or command line:
 
 ```
-git clone https://github.com/Azure-Samples/active-directory-b2c-javascript-msal-singlepageapp.git
+git clone https://github.com/tommywu052/AADB2cWebSample.git
 ```
 
 ### Step 2: Run the application
